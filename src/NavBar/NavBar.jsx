@@ -5,6 +5,7 @@ import {
   IconButton,
   Toolbar,
   Typography,
+  Avatar
 } from "@mui/material";
 import NavListDrawer from "./NavListDrawer";
 import { useState } from "react";
@@ -38,8 +39,7 @@ export default function Navbar({ navegationLinks }) {
           >
             
           <a href='./'>
-            <img width={50} src="./public/andrea-img/lamaga.jpeg"></img>
-       
+            <Avatar alt="laMaga logo" src="./public/andrea-img/lamaga.jpeg" />
           </a>
           
           </Typography>

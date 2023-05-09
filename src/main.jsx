@@ -20,8 +20,9 @@ import '@fontsource/roboto/700.css';
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
      <ThemeProvider theme={theme} >
+     <CssBaseline />
       <BrowserRouter>
-        <CssBaseline />
+        
         
         <App />
       </BrowserRouter>
