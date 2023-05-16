@@ -48,31 +48,31 @@ export default function EstudioCard() {
 const itemData = [
     {
      title: "Hatha Yoga y Meditación",
-     img: "./public/andrea-img/323207554_1484021318794470_2565617098109449865_n.jpg",
+     img: "./andrea-img/lamaga-espacio09.jpg",
      data: " Clases de Hatha Yoga y Meditacion",
      key: "06",
     },
     {
      title: "Entrenamiento #animalflow",
-     img: "./public/andrea-img/327032262_853240319285141_902786940707842928_n.jpg",
+     img: "./andrea-img/lamaga-espacio15.jpg",
      data: "Animal Flow",
      key: "08",
     },
     {
      title: "Masajes",
-     img: "./public/andrea-img/326343515_3196355764010738_6153478716015903357_n.jpg",
+     img: "./andrea-img/lamaga-espacio17.jpg",
      data: "Masajes terapeuticos",
      key: "09",
     },
     {
      title: "Medicina natural",
-     img: "./public/andrea-img/336902729_604501918198931_6032723947713559800_n.jpg",
+     img: "./andrea-img/lamaga-espacio06.jpg",
      data: "Fitoterapia",
      key: "10",
     },
     {
      title: "Retiros",
-     img: "./public/andrea-img/340018914_1849745065410998_6313290106657943656_n.jpg",
+     img: "./andrea-img/lamaga-espacio08.jpg",
      data: "Retiros en Argentina",
      key: "11",
     },

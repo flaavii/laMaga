@@ -39,7 +39,7 @@ export default function Navbar({ navegationLinks }) {
           >
             
           <a href='./'>
-            <Avatar alt="laMaga logo" src="./public/andrea-img/lamaga.jpeg" />
+            <Avatar alt="laMaga logo" src="./andrea-img/lamaga-logo.jpeg" />
           </a>
           
           </Typography>

@@ -45,22 +45,22 @@ export default function MultiActionAreaCard() {
     ) ;
   } 
 
-const itemData = [
+  const itemData = [
     {
      title: "Hatha Yoga y Meditación",
-     img: "./public/andrea-img/323207554_1484021318794470_2565617098109449865_n.jpg",
+     img: "./andrea-img/lamaga-espacio01.jpg",
      data: " Clases de Hatha Yoga y Meditacion",
      key: "10",
     },
     {
      title: "Formación Yoga danza 2023",
-     img: "./public/andrea-img/325460354_466234435717705_520290786717962369_n.jpg",
+     img: "./andrea-img/lamaga-espacio20.jpg",
      data: "Yoga Danza",
      key: "11",
     },
     {
      title: "Auto Cultivo",
-     img: "./public/andrea-img/327032262_853240319285141_902786940707842928_n.jpg",
+     img: "andrea-img/lamaga-espacio14.jpg",
      data: "Auto cultivo medicinal",
      key: "12",
     },

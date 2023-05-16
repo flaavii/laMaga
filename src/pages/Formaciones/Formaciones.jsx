@@ -12,7 +12,7 @@ export default function Formaciones() {
   alignItems="center"
   spacing={2}>
 
-    <Grid item xs={6} md={8}>
+    <Grid item xs={8} md={8}>
 
       
         <MultiActionAreaCard/>
